@@ -1,0 +1,36 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="xml">
+      <display-name>body</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("body")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>form/@method</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("method")).withParent(xmlTag().withLocalName(string().equalTo("form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>html</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("html")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>link/@rel</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rel")).withParent(xmlTag().withLocalName(string().equalTo("link")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>nav</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("nav")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>option/@value</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("value")).withParent(xmlTag().withLocalName(string().equalTo("option")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>tr/@class</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("class")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="xml">
+      <display-name>ul</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("ul")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+  </component>
+</application>
