@@ -1,22 +1,87 @@
 <!DOCTYPE html>
 <!--
 Name: Katelyn Truong
-Date: September 20, 2017
+Date: September 27, 2017
 Course: COMP1950
-Homework #1
+Homework #2
 -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>My Homework Hub</title>
-    <link href="style/style.css" rel="stylesheet">
+    <title>HW#2: Places I have been</title>
+    <link href="style/style2.css" rel="stylesheet">
 </head>
 <body class="wrapper">
-<header class="box header"><h1><a href="index.html">My Homework Hub</a></h1></header>
-    <nav class="box menu">
+    <header class="box header">
+        <h1><a href="index.html">Places I have visited!</a></h1>
+    </header>
+    <nav>
         <ul>
-            <li><a href="index.html">Homework #1</a></li>
-            <li><a href="#">Homework #2</a></li>
+            <li><a href="#pax">PAX West-Seattle</a></li>
+            <li><a href="#quynhon">QuyNhon Beach</a></li>
+            <li><a href="#mark">HTML Tag &ltmark></a></li>
+            <li><a href="#iframe">HTML Tag &ltiframe></a></li>
+        </ul>
+    </nav>
+    <div class="box group">
+    <section>
+        <h2>Places I have visited</h2>
+        <div class="city">
+        <h3 id="pax"><mark>PAX West-Seattle</mark></h3>
+        <iframe src="https://www.youtube.com/embed/aFtONdvR9R8" frameborder="0" allowfullscreen></iframe>
+        <p>PAX (originally known as Penny Arcade Expo) is a series of gaming festivals held in Seattle, Boston, Melbourne,
+            Philadelphia, and San Antonio. PAX was created by Jerry Holkins and Mike Krahulik, the authors of
+            the Penny Arcade webcomic, because they wanted to attend a show exclusively for gaming.[1]
+        <br>Created in 2004, PAX has been hailed as a celebration of gamer culture.
+            Defining characteristics of the festival include an opening keynote speech
+            topics, exhibitor booths from independent and major game developers and publishers,
+            a LAN party, tabletop game tournaments, and video game freeplay areas.
+            Every PAX also features the Omegathon, a festival long tournament consisting of a group of randomly
+            selected attendees competing for a grand prize. The final round of the Omegathon makes up
+            the closing ceremony of PAX. Past games for the final round have included Tetris, Pong, Halo 3, and Skee ball.
+        </p>
+        <h3 id="quynhon"><mark>QuyNhon Beach</mark></h3>
+        <figure>
+            <img src="style/image/quynhobeach1.jpg" alt="Quy Nhon Beach - Vietnam">
+            <figcaption>Quy Nhon Beach - Vietnam</figcaption>
+        </figure>
+        <p>A large, prosperous coastal city, Quy Nhon (pronounced ‘hwee ngon’) boasts a terrific beach-blessed
+            shoreline and grand boulevards. Its seaside appeal and tidy, litter-free streets make it the kind
+            of place that affluent Vietnamese couples choose to retire to, spending their final days ocean-gazing
+            and promenade-walking.
+        <br>Quy Nhon is certainly a good spot to sample some fresh seafood, but for most foreign visitors the
+            city's attractions are less obvious. However, growing numbers are being drawn to Bai Xep cove,
+            12km south of the centre, where a cool little scene has developed around a crop of new guesthouses.
+        </p>
+        <h2>Two New HTML Tags</h2>
+            <h3 id="mark"><mark>HTML &ltmark> tag</mark></h3>
+            <p>The &ltmark> tag defines marked text.
+            <br>Use the &ltmark> tag if you want to highlight parts of your text.
+            </p>
+            <ol>Supported Browsers:
+                <li>Chrome</li>
+                <li>Internet Explorer</li>
+                <li>Firefox</li>
+                <li>Safari</li>
+                <li>Opera</li>
+            </ol>
+            <h3 id="iframe"><mark>HTML &ltiframe> tag</mark></h3>
+            <p>The &ltiframe> tag specifies an inline frame.
+            <br>An inline frame is used to embed another document within the current HTML document.
+            </p>
+            <ol>Supported Browsers:
+                <li>Chrome</li>
+                <li>Internet Explorer</li>
+                <li>Firefox</li>
+                <li>Safari</li>
+                <li>Opera</li>
+            </ol>
+        </div>
+    </section>
+    <aside>
+        <ul>
+            <li><a href="HW1.html">Homework #1</a></li>
+            <li><a href="index.html">Homework #2</a></li>
             <li><a href="#">Homework #3</a></li>
             <li><a href="#">Homework #4</a></li>
             <li><a href="#">Homework #5</a></li>
@@ -24,34 +89,8 @@ Homework #1
             <li><a href="#">Homework #7</a></li>
             <li><a href="#">Homework #8</a></li>
         </ul>
-    </nav>
-    <main class="box content">
-        <img class="photo" src="style/diva.jpg" alt="my photo"/>
-        <h3>Introduction:</h3>
-        <p><span>My name:</span> Katelyn Truong.
-            <br><span>Homework Validator:</span> click <a
-                    href="https://validator.w3.org/check?uri=http://bcitcomp.ca/students/mtruong22/index.html" target="_blank">validator tool.</a>
-            <br><span>WIP:</span> Applied Software Development.
-            <br><span>Favorite tools:</span> PHP Storm, and basic developer inspection
-            tool on the web.
-            <br><span>Favorite sites:</span> <a href="https://www.w3schools.com" target="_blank">w3schools</a> and
-            <a href="https://stackoverflow.com/" target="_blank">stackoverflow.com</a>
-            <br><span>About: </span> I don't talk much in class. When I get to know a person
-            better, I will start to get more comfortable in communication.
-            I prefer to communicate in small group than a big one. I'm taking this
-            course as it's a required course and a prerequisite for other courses
-            in my degree path.</p>
-        <p>
-            <span>Extra Text: </span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Duis blandit laoreet metus non condimentum. Morbi sagittis euismod lacus,
-            in molestie dui fringilla non. Sed efficitur urna nec tempor rutrum. Lorem
-            ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac egestas sem.
-            Suspendisse rhoncus eros purus, sit amet feugiat ipsum interdum vitae. Mauris non
-            augue in lectus faucibus condimentum ac ut tortor. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Proin diam sapien, faucibus sit amet viverra eget,
-            ullamcorper id sem.
-        </p>
-    </main>
+    </aside>
+    </div>
     <footer class="box footer"><h4>Copyright &copy; Katelyn Truong COMP1950</h4></footer>
 </body>
 </html>
