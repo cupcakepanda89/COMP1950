@@ -1,0 +1,35 @@
+div > h1{
+    color: #80230f;
+    text-decoration: underline;
+}
+p:first-child{
+    color: blue;
+    font-style: italic;
+}
+li {
+    margin-bottom: 20px;
+}
+.important{
+    background-color: yellow;
+}
+.critical{
+    color: red;
+    border: black solid 1px;
+}
+li > h1{
+    font-size: 1em;
+    color: blue;
+}
+em{
+    border: dotted black 1px;
+}
+a {
+    color: #80230f;
+    border: dotted black 1px;
+}
+
+a[href*="google"]{
+    border: none;
+}
+
+

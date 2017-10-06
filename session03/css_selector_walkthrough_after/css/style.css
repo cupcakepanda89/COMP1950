@@ -1,0 +1,177 @@
+/*
+to best control the CSS 'cascade', it is usually best to sort
+your rules by specificity (from general to specific rules)
+HTML selector rules first, 
+CLASS selectors next, then
+ID selectors.
+*/
+*{
+	font-family:"helvetica";
+	color:#565656;
+}
+/*
+Grouping Selectors
+a comma delimited list of selectors allows 
+several tags to be assigned the same set of styles
+*/
+header, nav, section, article, aside, footer{
+	border:dashed 1px grey;
+	margin:5px;
+	padding:10px;
+}
+section{
+	background-image:url("http://bcitcomp.ca/images/background.png");
+} 
+/* 
+style all sections that are inside other section tags
+	ancestor descendant
+*/
+section section{
+	background-image:none;
+	background-color:white;		
+}
+/*
+style all code tags that descend from li
+	ancestor descendant	
+*/
+li code{
+	border:solid 1px black;		
+}
+/*
+style all code tags that are children of dd
+	parent > child	
+*/
+dd > code{
+	background-color:#bcbcbc;		
+}
+/* 
+	pseudoclass 'a' tags that descend from nav 
+	a:link, a:visited, a:hover, a:active
+*/
+nav a:link, nav a:visited{
+	font-weight:bold;
+	color:tomato;
+}
+nav a:hover{
+	color:#565656;	
+}
+nav a:active{
+	font-size:.9em;
+}
+/*
+target tags based on where they appear in sequence
+	:first-of-type
+	:last-of-type
+	:nth-of-type(n)
+	:nth-child(n)
+*/
+
+/*
+	target the last dd tag on the page
+	selector:last-of-type
+	
+*/
+dd:last-of-type{
+	border:dashed 4px white;	
+}
+
+/* target the 2nd child, if its a p tag 
+	selector:nth-child(n)	
+*/
+p:nth-child(2){
+	background-color:pink;			
+}
+/* target the second occurence of a p tag 
+	selector:nth-of-type(n)	
+*/
+p:nth-of-type(2){
+	background-color:lightyellow;	
+}
+/* 
+	style the first letter of all p tags
+		tag:first-line
+		tag:first-letter	
+*/
+p:first-letter{
+	font-weight:bold;		
+	
+}
+/* target the first letter of p tags that follow an h2 
+	root-selector + first-sibling
+	
+	
+*/
+h2 + p:first-letter{
+	font-size:2em;
+	font-family:"Times new roman";
+	border:solid 1px grey;	
+	float:left;
+	padding:4px;
+	margin:5px 5px 0px;
+	
+}
+/*  
+style the background color of all sibling p tags that follow h2
+	root-selector ~ sibling
+*/
+h2 ~ p{
+	background-color:lightblue;	
+	border: solid 2px black;
+}
+/* style the nth child 
+	nth-child(n)	style the nth child
+	nth-child(2n)	style every even numbered child
+	nth-child(2n+1) style every odd numbered child
+*/
+/* target the 4th list item in the nav */
+nav li:nth-child(4){
+	border:dotted 1px black;	
+}
+/* target every even numbered li in the nav 
+	*/
+nav li:nth-child(2n){
+	background-color:lightgreen;	
+}
+/* target every odd li in the nav 	
+*/
+nav li:nth-child(2n+1){
+	background-color:lightblue;	
+}
+
+/*
+	tag[attribute]			tag contains the named attribute
+	tag[attribute="abc"]	tag attribute value is "abc"
+	tag[attribute^="abc"]	tag attribute value begins with "abc"
+	tag[attribute*="abc"]	tag attribute value contains "abc"
+	tag[attribute$="abc"]	tag attribute value ends with "abc"
+*/
+/*
+style all secure HTTPS links
+	(with hrefs that start with 'http')
+*/
+a[href^="https"]{
+	text-decoration:none;
+	font-weight:bold;	
+}
+a[href^="https"]:after{
+	content:" - secure site";		
+}
+
+/*
+style all links that contain 'bcit' in the href
+*/
+a[href*="bcit"]{
+	background-color:lightgreen;	
+}
+
+/* 
+some classes to work with
+	you can assign multiple classes to a tag
+		<tag class="important alert">data</tag
+*/
+.important{
+	background-color:yellow;
+}
+.alert{
+	border:solid red 1px;
+}
