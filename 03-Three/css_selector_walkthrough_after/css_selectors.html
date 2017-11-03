@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CSS Selector Examples</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="css/style.css" />
+	</head>
+	<body>
+	<header>
+		<h1 class="important alert">CSS Selector Examples</h1>
+		<p>This page is for experimenting with the application of various <strong><a href="http://css.maxdesign.com.au/selectutorial/">CSS Selector</a></strong> techniques</p>
+	</header>
+	<section>
+		<h2>Apply and experiment with each of these advanced CSS selectors:</h2>
+		<dl>
+			<dt>universal selectors</dt>
+			<dd><code>*</code> ALL elements match the univeresal selector</dd>
+			<dt>descendant selectors</dt>
+			<dd><code>selector01 selector02</code> all selector02s that descend from selector01s are styled. separate the descending selectors with a <em>spacebar space</em></dd>
+			<dt>child selectors</dt>
+			<dd><code>selector01 &gt; selector02</code> style all selector02 that are children of selector01. separate the child selectors with a <em>greater than</em> sign</dd>
+			<dt>pseudo-class selectors</dt>
+			<dd><code>selector:link</code>, <code>selector:visited</code>, <code>selector:hover</code>, <code>selector:active</code> style an element based upon it's state. assign the pseudoclass using the <em>colon</em><br />
+			<code>selector:first-line</code>, <code>selector:first-letter</code>, etc style the first letter or line of the selector <br />
+			<code>selector:nth-child(n)</code> select the (n)th child<br />
+			<code>selector:nth-child(2n)</code> select every other child<br />
+			<code>selector:nth-child(2n+1)</code> select every other child+1</dd>
+			<dt>attribute selectors</dt>
+			<dd>
+				<code>selector[attribute=value]</code> only style selectors that include the attribute or the attribute and value. use <em>square brackets</em> to define attribute selectors
+				<ul>
+					<li><code>selector[attribute]</code> style selector where the specified attribute is present</li>
+					<li><code>selector[attribute="value"]</code> only those where attribute is assigned 'value' </li>
+					<li><code>selector[attribute^="va"]</code>where attribute value BEGINS with 'va'</li>
+					<li><code>selector[attribute$="ue"]</code>where attribute value ENDS with 'ue'</li>
+					<li><code>selector[attribute*="alu"]</code>where attribute value CONTAINS 'alu'</li>
+				</ul>
+			</dd>
+		</dl>
+	</section>	
+	<nav>
+		<ul>
+			<li class="classy"><a href="#">page 1</a></li>
+			<li><a href="#">page 2</a></li>
+			<li><a href="#">page 3</a></li>
+			<li><a href="#">page 4</a></li>
+			<li><a href="#">page 5</a></li>
+			<li><a href="#">page 6</a></li>
+		</ul>
+	</nav>
+	<section>
+		<h2>Heading 2: nth-of-type() VS nth-child()</h2>
+		
+		<p>Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. Paragraph One. </p>
+		<p>Paragraph Two.</p>
+		<p>Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. Paragraph Three. </p>
+		<p>Paragraph Four. Paragraph Four. Paragraph Four.</p>
+	</section>
+	<aside>
+	<h2>List O Linkies</h2>
+	<ul id="listOfLinks">
+		<li><a href="http://www.bcit.ca/">bcit</a></li>		
+		<li><a href="http://my.bcit.ca/">my.bcit.ca</a></li>		
+		<li><a href="https://www.google.ca/">google</a></li>		
+		<li><a href="https://www.bcitcomp.ca/1950/">bcitcomp.ca/1950</a></li>		
+		<li><a href="http://bcitcomp.ca/1950/lectures/three/">bcitcomp.ca COMP 1950 lecture 3 notes</a></li>	
+	</ul>
+	</aside>
+	<section>
+		<h3>Lorem Ipsum</h3>	
+		<p>Suspendisse feugiat, dolor eu mollis egestas, tellus neque tincidunt mauris, id sollicitudin nisl nibh non metus. Nunc sed dapibus ex. Fusce ac tortor aliquam, egestas lorem et, hendrerit lectus. Suspendisse felis eros, sollicitudin quis elit et, fermentum euismod diam.</p>
+		
+		<p>Nullam id magna iaculis, porta orci a, gravida augue. Nunc a lectus in diam elementum sagittis. Phasellus odio erat, viverra vel arcu ut, ultrices fringilla nunc. Suspendisse feugiat, dolor eu mollis egestas, tellus neque tincidunt mauris, id sollicitudin nisl nibh non metus. Nunc sed dapibus ex. Fusce ac tortor aliquam, egestas lorem et, hendrerit lectus. Suspendisse felis eros, sollicitudin quis elit et, fermentum euismod diam.</p>
+		<span><section>
+			<h4>Agape Storge</h4>
+			<p>Nunc sed dapibus ex. Fusce ac tortor aliquam, egestas lorem et, hendrerit lectus. Suspendisse felis eros, sollicitudin quis elit et.</p>
+		</section></span>
+	</section>		
+	</body>
+</html>
+
+
+
+

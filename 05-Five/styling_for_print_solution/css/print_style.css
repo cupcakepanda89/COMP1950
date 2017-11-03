@@ -1,0 +1,72 @@
+/* choose preferred fonts */
+body{
+	font-family:"arial";
+}
+h1, h2, h3, h4, h5, h6{
+	font-family:"times new roman";
+}
+section{
+	/*  */
+	page-break-before:always;
+}
+header{
+	/* allow the logo in the header to display */
+}
+footer{
+	/* some simple footer style */
+	border-top: solid 5px #AD6376;
+	text-align:center;
+}
+nav>ul{
+	/* a list of nav links is useless on a printout, might as well hide it */
+	display:none;
+}
+main{
+	/* 
+	display page content
+	in this case, the content is displayed 
+	the left side of the page (66% width)	
+	*/
+	padding:10px;
+	border:solid 2px #ccc;
+	border-width:0px 2px;
+	width:66%;
+	font-size:.85em;
+}
+aside{
+	/*
+	since floating is unpredictable in a printer,
+	absolute position the aside instead.
+	we'll place it to the right side 
+	of the main content section (30% width)
+	*/
+	width:30%;
+	position:absolute;
+	top:100px;
+	right:0px;
+	font-size:.75em;
+}
+/*
+be sure any external hyperlinks
+(those with hrefs that begin with "http://")
+will print out the entire URL 
+*/
+a[href^="http://"]:link:after, 
+a[href^="http://"]:visited:after{
+   content: " (URL: " attr(href) ") ";
+   font-size: 90%;
+}
+/*
+hide the inappropraitely colored image...
+*/
+header img {
+	display:none;
+}
+/*
+add our own logo image content to a tag that 
+is still displaying...
+
+*/
+header div:after {
+	content:url("../images/logo_print.png");
+}

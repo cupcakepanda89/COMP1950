@@ -1,0 +1,78 @@
+/*
+HTML selectors
+----------------------------------------------------
+*/
+body{
+	font-family:"verdana", sans-serif;
+	background-color:#A66E00;
+	margin:0px;
+}
+header{
+	background-color:#A64A00;
+	padding:6px 10px;
+	border:solid 5px #FFE673;
+	border-width:5px 1px 1px 1px;
+	margin-left:-1px;
+	height:57px;
+
+	
+}
+header h1{
+	margin:0px;
+}
+nav{
+	background-color:#FFDD40;
+	margin-left:-1px;
+	height:40px;
+
+}
+section{
+	padding:5px 20px;
+	background-color:#BF8F30;
+	border:solid 5px #FFE673;
+	border-width:1px 0px 0px 0px;
+
+}
+/*
+ID selectors
+----------------------------------------------------
+*/
+#wrapper{
+	background-color:#BF8F30;
+	border:solid 5px #FFE673;
+	border-width:0px 1px 10px 1px;
+
+}
+/*
+horizontal navigation list code taken from 
+http://css.maxdesign.com.au/listamatic/horizontal04.htm
+*/
+#navlist{
+	padding: 0 1px 1px;
+	margin-left: 0;
+	font: bold 12px Verdana, sans-serif;
+}
+#navlist li{
+	list-style: none;
+	margin: 0;
+	border-top: 1px solid gray;
+	display: inline;
+}
+#navlist li a{
+	padding: 0.25em 0.5em 0.25em 0.75em;
+	border: 1em solid #332;
+	border-width:1px 1px 1px 10px;
+	background: #A66E00;
+	text-decoration: none;
+}
+#navlist li a:link {		
+	color: #FFDD40; 
+}
+#navlist li a:visited { 
+	color: #FFDD40; 
+}
+#navlist li a:hover{
+	border-color: #BFA630;
+	color: #FFF;
+	background: #332;
+}
