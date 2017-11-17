@@ -6,9 +6,9 @@ $(document).ready(function () {
         $(".section").hide();
 
     });
-    $(".nav").click(function(){
+ /*   $(".nav").click(function(){
         $(".section").slideToggle(3000);
-    });
+    }); */
 
 
 });

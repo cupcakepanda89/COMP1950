@@ -2,544 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93ce063c-bfec-4703-99d8-fbe66339fd3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-Two/._session02_exercise01" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-Two/._session02_exercise_02" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-Two/session02_exercise01" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-Two/session02_exercise_02" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._alternate_stylesheets" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._anitakhuu" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._css_selector_exercise_sample" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._css_selector_walkthrough_after" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._importing_css_solution" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._parallax_background" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._sprites_exercise" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/._truong_katelyn_quiz03" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/images/._pumpkin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/images/pumpkin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/._background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/._hamburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/._homework02" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/hamburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/homework02/._london.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/homework02/._stockholm1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/homework02/._stockholm2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/homework02/london.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/homework02/stockholm1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/images/homework02/stockholm2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/._background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/._hamburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/._homework02" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/hamburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/homework02/._london.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/homework02/._stockholm1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/homework02/._stockholm2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/homework02/london.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/homework02/stockholm1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/images/homework02/stockholm2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_exercise_sample/._selector_exercise01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_exercise_sample/selector_exercise01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_walkthrough_after/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/._img" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/img/._back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/img/._front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/img/._mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/img/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/img/front.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/img/mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/images/._img_navsprites.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/images/._user_sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/images/img_navsprites.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/images/user_sprites.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/image/._diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/image/._quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/image/diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/image/quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/truong_katelyn_quiz03/._comp1950_quiz03.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/truong_katelyn_quiz03/._quiz03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/truong_katelyn_quiz03/comp1950_quiz03.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/truong_katelyn_quiz03/quiz03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/._header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/._main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/._normalize.css-master" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/._socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/image/._diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/image/._quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/image/diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/image/quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/._comp1950_quiz04" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/._styling_for_print_exercise" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/._styling_for_print_solution" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/._truong_katelyn_quiz04" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/._header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/._main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/._normalize.css-master" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/._socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/image/._diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/image/._quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/image/diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/image/quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/._normalize-css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._backgrd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._footerbg.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._ganondorf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._zelda.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/._zelda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/backgrd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/footerbg.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/ganondorf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/zelda.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/img/zelda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/._comp1950_quiz04.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/comp1950_quiz04.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/._header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/._main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/._normalize.css-master" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/._socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/header.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/image/._diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/image/._quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/image/diva.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/image/quynhobeach1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/._normalize-css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._backgrd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._footerbg.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._ganondorf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._zelda.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/._zelda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/backgrd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/footerbg.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/ganondorf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/zelda.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/img/zelda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/._arrow_off.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/._arrow_on.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/._bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/._logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/._logo_print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/arrow_off.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/arrow_on.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/images/logo_print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/._images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/._arrow_off.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/._arrow_on.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/._bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/._logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/._logo_print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/arrow_off.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/arrow_on.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/images/logo_print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/._comp1950_quiz04.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/comp1950_quiz04.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/._jquery_basics" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/jquery_basics/._css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/jquery_basics/._js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/HW4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/HW02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/HW1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/HW2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/alternate_stylesheets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/css/._default_styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/css/._hallowseve_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/css/default_styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/css/hallowseve_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/alternate_stylesheets/css/hallowseve_style_edited.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/hw01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/hw02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/css/._styleme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/css/styleme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu-edited/style/katelyn/katelyn_truong.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/._hw02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/._index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/css/._styleme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/css/styleme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/hw02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/index.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/katelyn_truong.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/anitakhuu/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_exercise_sample/._selector_exercise_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_exercise_sample/selector_exercise_01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_walkthrough_after/._css_selectors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_walkthrough_after/css/._style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_walkthrough_after/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/css_selector_walkthrough_after/css_selectors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/._importing_css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/._box_models.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/._fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/._layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/._one_stylesheet_using_import.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/box_models.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/css/one_stylesheet_using_import.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/importing_css_solution/importing_css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/katelyn_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/._parallax_background.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/parallax_background/parallax_background.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/._sprites.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/sprites_exercise/sprites.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/Carsonstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/style/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/truong_katelyn_quiz03/comp1950_quiz03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-Three/truong_katelyn_quiz03/katelyn_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/HW02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/HW1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/HW3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/HW4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/HW4_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/HW4_3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/._aside.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/Carsonstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/aside.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/._test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/normalize.css-master/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-Four/style/style_hw4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/HW02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/HW1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/HW3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/HW4_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/HW4_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/HW4_3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/._aside.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/Carsonstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/aside.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/._test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/normalize.css-master/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/previous_hw/style/style_hw4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/mystyle/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/._test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/HW5/style/normalize-css/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/._page01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/._page02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/._page03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/._page04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/._style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/page01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/page02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/page03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/page04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/comp1950_quiz04/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/HW02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/HW1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/HW3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/HW4_1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/HW4_2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/HW4_3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/._aside.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/Carsonstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/aside.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/._test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/normalize.css-master/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/previous_hw/style/style_hw4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/mystyle/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/._test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/style/normalize-css/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_exercise/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/._index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/css/._print_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/css/._style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/css/print_style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/styling_for_print_solution/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/._page01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/._page02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/._page03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/._page04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/page01.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/page02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/page03.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/page04.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-Five/truong_katelyn_quiz04/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/jquery_basics/css/._style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/jquery_basics/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/jquery_basics/jquery_exercise02.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-Seven/jquery_basics/js/script.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._anitakhuu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._parallax_background" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._session02_exercise01" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._session02_exercise_02" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._sprites_exercise" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/._truong_katelyn_quiz03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HW02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HW1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HW2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/hw01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/hw02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/._images" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/css/._styleme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/css/styleme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/._background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/._hamburger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/._homework02" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/hamburger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/homework02/._london.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/homework02/._stockholm1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/homework02/._stockholm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/homework02/london.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/homework02/stockholm1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/images/homework02/stockholm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu-edited/style/katelyn/katelyn_truong.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/._hw02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/._images" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/._index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/css/._styleme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/css/styleme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/hw02.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/._background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/._hamburger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/._homework02" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/hamburger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/homework02/._london.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/homework02/._stockholm1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/homework02/._stockholm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/homework02/london.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/homework02/stockholm1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/images/homework02/stockholm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/index.htm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/katelyn_truong.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anitakhuu/test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/katelyn_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/._img" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/._parallax_background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/img/._back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/img/._front.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/img/._mid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/img/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/img/front.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/img/mid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/parallax_background/parallax_background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session02_exercise01" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session02_exercise_02" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/._alternate_stylesheets" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/._css_selector_exercise_sample" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/._css_selector_walkthrough_after" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/._importing_css_solution" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/._images" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/alternate_stylesheets.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/css/._default_styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/css/._hallowseve_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/css/default_styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/css/hallowseve_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/css/hallowseve_style_edited.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/images/._pumpkin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/alternate_stylesheets/images/pumpkin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_exercise_sample/._selector_exercise01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_exercise_sample/._selector_exercise_01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_exercise_sample/selector_exercise01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_exercise_sample/selector_exercise_01.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_walkthrough_after/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_walkthrough_after/._css_selectors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_walkthrough_after/css/._style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_walkthrough_after/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/css_selector_walkthrough_after/css_selectors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/._importing_css.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/._box_models.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/._fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/._layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/._one_stylesheet_using_import.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/box_models.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/css/one_stylesheet_using_import.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/session03/importing_css_solution/importing_css.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/._css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/._images" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/._sprites.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/images/._img_navsprites.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/images/._user_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/images/img_navsprites.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/images/user_sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sprites_exercise/sprites.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/Carsonstyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/image/._diva.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/image/._quynhobeach1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/image/diva.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/image/quynhobeach1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/style/style2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03/._comp1950_quiz03.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03/._quiz03.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03/comp1950_quiz03.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03/comp1950_quiz03.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03/katelyn_style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/truong_katelyn_quiz03/quiz03.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-Seven/HW6/index.html" afterPath="$PROJECT_DIR$/07-Seven/HW6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-Seven/HW6/katelyn.js" afterPath="$PROJECT_DIR$/07-Seven/HW6/katelyn.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -548,56 +13,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-Seven/HW6/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quiz06.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comp1950_quiz06/quiz06.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-Seven/HW6/style/mystyle/style.css">
+        <entry file="file://$PROJECT_DIR$/../web/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="katelyn.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/comp1950_quiz06/katelyn.js">
+      <file leaf-file-name="404style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../web/404style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#50#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="katelyn.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-Seven/HW6/katelyn.js">
+      <file leaf-file-name="HW6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09-Nine/HW8/previous_hw/HW6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="katelyn.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-Nine/HW8/previous_hw/katelyn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -610,8 +62,8 @@
       <list>
         <option value="TypeScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -619,6 +71,7 @@
     <findStrings>
       <find>index</find>
       <find>img</find>
+      <find>style</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -627,10 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style/style2.css" />
-        <option value="$PROJECT_DIR$/.idea/test.html" />
-        <option value="$PROJECT_DIR$/anitakhuu/test.html" />
-        <option value="$PROJECT_DIR$/anitakhuu/katelyn_truong.css" />
         <option value="$PROJECT_DIR$/anitakhuu-edited/hw01.html" />
         <option value="$PROJECT_DIR$/anitakhuu-edited/hw02.html" />
         <option value="$PROJECT_DIR$/anitakhuu-edited/index.html" />
@@ -678,6 +127,10 @@
         <option value="$PROJECT_DIR$/07-Seven/HW6/katelyn.js" />
         <option value="$PROJECT_DIR$/07-Seven/HW6/index.html" />
         <option value="$PROJECT_DIR$/07-Seven/HW6/style/mystyle/style.css" />
+        <option value="$PROJECT_DIR$/../web/404style.css" />
+        <option value="$PROJECT_DIR$/../web/index.html" />
+        <option value="$PROJECT_DIR$/09-Nine/HW8/previous_hw/HW6.html" />
+        <option value="$PROJECT_DIR$/09-Nine/HW8/previous_hw/katelyn.js" />
       </list>
     </option>
   </component>
@@ -768,134 +221,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Seven" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Seven" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_exercises_solution" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Seven" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_exercises_solution" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Seven" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_basics" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Seven" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery_basics" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COMP1950" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="07-Seven" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HW6" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -937,6 +265,14 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
     <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
       <PhpTestRunnerSettings />
       <method />
@@ -973,15 +309,6 @@
     </configuration>
     <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
       <PhpTestRunnerSettings />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -1030,17 +357,19 @@
       <workItem from="1507859829039" duration="23959000" />
       <workItem from="1509602489520" duration="6754000" />
       <workItem from="1509610418376" duration="2275000" />
+      <workItem from="1510198341251" duration="302000" />
+      <workItem from="1510809502802" duration="263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89997000" />
+    <option name="totallyTimeSpent" value="90562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="391" y="23" width="778" height="715" extended-state="1" />
+    <frame x="391" y="23" width="778" height="715" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16304348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1061,7 +390,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1073,16 +402,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/truong_katelyn_quiz03/katelyn_style.css" />
-    <entry file="file://$PROJECT_DIR$/.idea/HW4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HW4.html" />
-    <entry file="file://$PROJECT_DIR$/style_hw4.css" />
     <entry file="file://$PROJECT_DIR$/../sprites_exercise/css/style.css" />
     <entry file="file://$PROJECT_DIR$/sprites_exercise/sprites.html" />
     <entry file="file://$PROJECT_DIR$/HW02.html" />
@@ -1213,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1221,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1229,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1237,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="50" column="36" lean-forward="false" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1245,7 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1253,35 +567,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <marker date="1496339096000" expanded="true" signature="1747:1772" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/comp1950_quiz06/quiz06.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comp1950_quiz06/katelyn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#50#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/comp1950_quiz06/quiz06.html" />
+    <entry file="file://$PROJECT_DIR$/comp1950_quiz06/katelyn.js" />
     <entry file="file://$PROJECT_DIR$/07-Seven/HW6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="437">
           <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,14 +583,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07-Seven/HW6/style/mystyle/style.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" column="12" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/404style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-Nine/HW8/previous_hw/HW6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-Nine/HW8/previous_hw/katelyn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
