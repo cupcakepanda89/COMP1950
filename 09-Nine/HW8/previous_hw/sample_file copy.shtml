@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sample Page</title>
+		<meta charset="utf-8" />
+		<!-- 
+		if the href="" path described here
+		is NOT relative but instead uses
+		a server root based path, then this
+		page may be more portable within the server		
+		-->
+		<link rel="stylesheet" href="./css/style.css" />
+	</head>
+	<body>
+		<h1>Just a simple, sample page</h1>
+		<p>Change the relative URLs used to link to the CSS and the image so that the paths are based on the <strong>server root</strong>, increasing page portability.</p>
+		<!-- 
+		update this img tag's src="" path 
+		to use the server root in the path
+		-->
+		<img src="./images/pic03.jpg" />
+
+		<!-- 
+		following is an example of an SSI (Server Side Includes) 
+		-->
+		<!--#echo var="DOCUMENT_NAME" -->
+	</body>
+</html>

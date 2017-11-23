@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>jQuery Read/Write Input</title>
+		<link rel="stylesheet" type="text/css" href="http://bcitcomp.ca/comp1950/css/comp1.css" media="screen" />
+		<style>
+			#maincont{
+				margin-right:0px;
+			}
+		</style>
+		
+<!--  first we need to load the jQuery framework library -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script>
+
+<!-- now add our jQuery code -->
+<script src="js/script.js"></script>
+
+	</head>
+	<body>
+<div id="maincont">
+
+		<h1>jQuery Read/Write Input Examples</h1>
+
+
+<div class="contblock">
+
+		<p>The source code on this page demonstrates manipulating page content using jQuery.</p>
+	<ul>
+		<li><a href="http://api.jquery.com/">jQuery read/write with HTML tags</a></li>		
+		<li><a href="http://api.jquery.com/category/forms/">jQuery read/write with HTML forms</a></li>		
+	</ul>
+<hr>
+<!-- 
+NOTE: these are not type="submit" inputs
+	  type="button" allows us
+	  to attach our own javascript events to these
+-->
+<input type="button" id="changetext" value="Change Text In HTML">
+<input type="button" id="addtext" value="Add Text To HTML">
+<input type="button" id="cleartext" value="Clear Text From HTML">
+<input type="button" id="readtext" value="Read Text From Form Fields">
+<input type="button" id="writetext" value="Write Text To A Form Field">
+
+<p id="message01">Message One (unchanged by jQuery)</p>
+<p id="message02"></p>
+
+<form id="myform">
+<fieldset>
+	<label for="username">Username</label>
+	<input type="text" id="username" name="username" size="25">
+	<br>
+	<label for="password">Password</label>
+	<input type="password" id="password" name="password" size="25">
+		<br>
+	<label for="remember">Remember Me</label>
+	<input type="checkbox" id="remember" name="remember" size="25">        
+</fieldset>
+</form>
+<hr>
+<h3>Change (overwrite) the text value of an HTML element:</h3>
+<pre><code>$("selector").text("New text")
+</code></pre>
+<h3>Change (append) the text value of an HTML element:</h3>
+<pre><code>$("selector").append("additional text")
+</code></pre>
+<h3>Clear the text value of an HTML element:</h3>
+<pre><code>$("selector").empty()
+</code></pre>
+<h3>Read the text of an HTML element:</h3>
+<pre><code>$value = $("selector").text()
+</code></pre>
+<h3>Read the attribute of an HTML element:</h3>
+<pre><code>$value = $("selector").attr("attributeName")
+</code></pre>
+<h3>Write the attribute value of an HTML element:</h3>
+<pre><code>$("selector").attr("attributeName", "attributeValue")
+</code></pre>
+<h3>Read the value of a form input element:</h3>
+<pre><code>$value = $("selector").val()
+</code></pre>
+<h3>Read the value of a form checkbox or radio button:</h3>
+<pre><code>//true if checked, false if not
+$trueOrFalse = $("selector").is(":checked")
+</code></pre>
+<h3>Write a value to a form input element:</h3>
+<pre><code>$("selector").val("New value")
+</code></pre>
+<h3>Change (overwrite) the HTML value of an element (eg: add new child elements):</h3>
+<pre><code>$("selector").html("&lt;p&gt;New html content&lt;/p&gt;")
+</code></pre>
+
+	</div></div>
+</body></html>

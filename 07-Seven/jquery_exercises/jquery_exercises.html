@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>jQuery Exercises</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="http://bcitcomp.ca/comp1950/css/comp1.css" media="screen" />
+
+		<style>
+		.blueclass{
+			background-color:lightblue;
+		}
+		.yellowclass{
+			background-color:yellow;
+		}
+		a[id^="slide"]{
+			cursor:pointer;
+		}	
+		#fixed_position{
+			position:fixed;
+			top:-15px;
+			left:0px;
+			width:100%;
+		}	
+		#scrolling_content{
+			margin-top:289px;
+		}		
+		</style>
+		<!-- load the required jQUery library -->
+		<script src="http://code.jquery.com/jquery-1.11.0.min.js"> </script>
+		
+		<!-- load our javsascript file -->
+		<script src="js/script.js"></script>
+
+	</head>
+	<body>
+
+
+
+<div id="docbox">
+	<div id="fixed_position">
+		<h2>jQuery Exercises</h2>
+		<div class="contblock">
+			<p>Begin by testing the jQuery already implemented, then examine the <code>example</code> code to see how it is affecting the page. When ready, complete all the <code>challenges</code> on this page. </p>
+			<p>The following image is <code>#profile_image</code>. Use this id when you want to alter it with jQuery.</p>
+			<img id="profile_image" src="http://bcitcomp.ca/comp1950/lectures/four/pic03.jpg" /><br />
+			<p>The following paragraph is <code>#jquery_message</code>. Use this id when you want to alter it with jQuery.</p>
+			<p id="jquery_message" class="blueclass">This paragraph has not been changed by jQuery (yet)</p>
+		</div>
+	</div>
+
+	<div id="scrolling_content">
+	<h2>Displaying Page Content</h2>
+	<div class="contblock">
+		<fieldset>
+			<legend>Example: show(),  hide()</legend>
+			<p>This example uses click events to <a href="http://api.jquery.com/show/">show()</a> and <a href="http://api.jquery.com/hide/">hide()</a> an image on this page.</p>
+			<input type="button" id="show" value="Show image" />
+			<input type="button" id="hide" value="Hide image" />
+		</fieldset>
+		<fieldset>
+			<legend>Challenge: fade effects</legend>
+			<ul>
+				<li>use <a href="http://api.jquery.com/fadeIn/">fadeIn()</a> to show the image</li>
+				<li>use <a href="http://api.jquery.com/fadeOut/">fadeOut()</a> to hide the image</li>
+				<li>use  <a href="http://api.jquery.com/fadeToggle/">fadeToggle()</a> to both show/hide the image</li>
+			</ul>
+			<p>Assign click events to each of the buttons below. Add the jQuery effect 'fade in', 'fade out', and 'fadeToggle' to show/hide the <code>#profile_image</code>.</p>
+			<input type="button" id="fadein" value="Fade In" />
+			<input type="button" id="fadeout" value="Fade Out" />
+			<input type="button" id="fadetoggle" value="Toggle Fade" />
+		</fieldset>
+		<fieldset>
+			<legend>Challenge: slide effects</legend>
+			<ul>
+				<li>use <a href="http://api.jquery.com/slideUp/">slideUp()</a> to hide the image</li>
+				<li>use  <a href="http://api.jquery.com/slideDown/">slideDown()</a> to show the image</li>
+				<li>use  <a href="http://api.jquery.com/slideToggle/">slideToggle()</a> to both show/hide the image</li>
+			</ul>
+			<p>Use click events on the three anchor tags below to test the various slide effects.</p>
+			<ul>
+				<li><a href="#" id="slideup">Slide Up</a></li>
+				<li><a href="#" id="slidedown">Slide Down</a></li>
+				<li><a href="#" id="slidetoggle">Slide Toggle</a></li>
+			</ul>
+
+		</fieldset>
+
+	</div>
+	<h2>Altering Page Content</h2>
+	<div class="contblock">
+
+		<fieldset>
+			<legend>Example: text()</legend>
+			<p>This example uses click events to change the <a href="http://api.jquery.com/text/">text()</a> content of the <code>#jquery_message</code> tag.</p>
+			<input type="button" id="change_text" value="Change the text of a tag" />
+		</fieldset>
+
+		<fieldset>
+			<legend>Challenge: append(), empty(), html()</legend>
+			<ul>
+				<li>use <a href="http://api.jquery.com/append/">append()</a> to append the following text to the tag: "Hello again!"</li>
+				<li>use <a href="http://api.jquery.com/empty/">empty()</a> to clear all content from the tag</li>
+				<li>use <a href="http://api.jquery.com/html/">html()</a> to change the contents of the <code>#jquery_message</code> tag to include the following html code: <code>&lt;span style='color:red'>jQuery&lt;/span> is very powerful!</code></li>
+			</ul>
+			<p>Use the three <code>divs</code> below, assigning jQuery click events to each. For each of these, experiment with how to manipulate the contents of the <code>#jquery_message</code> tag.</p>
+			<div id="append" style="background-color:#ababab;">Append Text</div><br />
+			<div id="empty" style="background-color:#ababab;">Empty Text</div><br />
+			<div id="html" style="background-color:#ababab;">Add HTML</div>
+
+		</fieldset>
+		<fieldset>
+			<legend>Challenge: attr()</legend>
+			<ul>
+				<li>use <a href="http://api.jquery.com/attr/">attr()</a> to change the <code>src</code> of the <code>#profile_image</code> tag. Change the <code>src</code> from its current value to this: <code>http://bcitcomp.ca/comp1950/lectures/four/pic01.jpg</code> </li>
+				<li>use <a href="http://api.jquery.com/toggleClass/">toggleClass()</a> to swap the CSS class of  <code>#jquery_message</code> from <code>.blueclass</code> to <code>.yellowclass</code></li>
+			</ul>
+			<p>Apply events of your choice (click, dblclick, etc) to each button below. Use these events to trigger the actions described.</p>
+			<input id="changeattribute" type="button" value="Double Click to Change Attribute" />
+			<input id="toggleclass" type="button" value="Mouse Over To Toggle Class" />
+		</fieldset>
+
+
+		</div>
+	<h2>CSS Manipulations</h2>
+	<div class="contblock">
+		<fieldset>
+			<legend>Challenge: css()</legend>
+			<p>Use <a href="http://api.jquery.com/category/css/">jQuery CSS functions</a> to alter the <code>#profile_image</code>.</p>
+			<ul>
+			<li>add a solid, black, 2 pixel border to  <code>#profile_image</code></li>
+			<li>change the dimensions of   <code>#profile_image</code> to 200px * 200px</li>
+			<li>absolute position   <code>#profile_image</code> to the <code>top:10px</code> and <code>left:10px</code></li>
+			</ul>
+			<input id="changecss" type="button" value="Change CSS" />	
+		</fieldset>
+
+	</div>
+
+
+	<h2>Animations</h2>
+	<div class="contblock">
+			<fieldset>
+			<legend>Example animate()</legend>
+			<p>Use <a href="http://api.jquery.com/animate/">animate</a> to smoothly relocate or resize page content. (Make sure you can see the top of this page when you test this, otherwise you won't be able to watch the p tag move!)</p>
+
+		<input type="button"  id="animateRightwards" value="Animate the P tag!" />
+				<input type="button"  id="animateLeftwards" value="Reverse the P tag animation!" />
+		</fieldset>
+
+	</div>
+	</div>
+
+</div>
+
+	</body>
+</html>

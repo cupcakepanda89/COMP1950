@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Alternate Stylesheets</title>
+		<meta charset="utf-8" />
+		<!-- 
+			rel="stylesheet"
+		designates 'preferred', or 'default' styles
+		
+		if this ink tag has NO
+			title=""
+		then the styles will also be
+		'persistent' and used regardless of
+		which styles have been selected
+		-->
+		<link	rel="stylesheet" 
+				type="text/css"
+				href="css/default_styles.css" />
+
+		<link	rel="alternate stylesheet" 
+				title="HalloweenStyle" 
+				type="text/css"
+				href="css/hallowseve_style.css" />
+
+		<link	rel="alternate stylesheet"
+				 title="HalloweenStyle"
+				 type="text/css"
+				 href="css/hallowseve_style_edited.css" />
+
+	</head>
+	<body>
+		<div id="wrapper">
+			<section>
+			<header><h1>Alternate Stylesheets</h1></header>
+				<ul>
+					<li><code>rel="alternate stylesheet"</code> allows different styles to be defined</li>
+					<li><strong>Tip:</strong> If you have multiple sheets that belong to one "look" make sure they all have the same <code>title</code></li>
+					<li>You can create alternate style sheets for users, allowing them to select which ones they would like to see</li>
+					<li>An example would be to create a 'Larger Text' style sheet with everything in a larger font, or an alternate Halloween stylesheet for your site</li>
+					<li>Many browsers are now giving users the ability to select which sheet they would like to see. (Firefox: View &gt; Page Style)  </li>
+				</ul>
+<aside>
+	<h3>Exercise:</h3>
+	<ul>
+		<li>Test the alternate stylesheet in Firefox</li>
+		<li>Make a copy of one of the current stylesheets, rename it, and change some of the styles</li>
+		<li>Add a third alternative stylesheet to this page</li>
+		<li>Test it out in a browser that allows the user to choose a stylesheet preference</li>
+		<li>The default style sheet provides a yellowish background to the body tag. Note how this style is used by all alternate styles as well. Try adding a <code>title</code> to the link tag for the default stylesheet. This changes it from 'persistent' to 'preferred', and it's styles will not be used with alternate stylesheets. </li>		
+	</ul>
+</aside>
+
+</section>
+		</div>
+	</body>
+</html>

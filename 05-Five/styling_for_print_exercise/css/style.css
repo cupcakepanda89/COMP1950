@@ -1,0 +1,184 @@
+@media screen {
+	/*
+the major parts of the page layout are
+	header		- contains the logo
+	nav			- horizontal nav bar
+	section		- contains the page content
+						also contains the aside
+	aside			- related content
+	footer		- copyright info
+*/
+
+	/*
+    set some defaults to normalize the various browser defaults
+    */
+	*{
+		margin:0px;
+		padding:0px;
+	}
+	/*
+    some basic styles for html selectors
+    */
+	body{
+		font-family:"arial";
+		background-color:black;
+	}
+	h1, h2, h3, h4, h5, h6{
+		font-family:"times new roman";
+		margin:5px;
+	}
+	p{
+		margin:12px 2px;
+	}
+	a:link, a:visited{
+		color:#450716;
+		font-weight:bold;
+	}
+	a:hover{
+		color:#AD6376;
+		font-weight:bold;
+	}
+	/*
+    -----------------------------------------------
+    the header and footer span the width of the entire page
+    */
+	header{
+		background-color:#450716;
+		height:90px;
+		border-bottom: solid 5px #AD6376;
+		color:#ffe47c;
+	}
+	footer{
+		background-color:#450716;
+		border-top: solid 5px #AD6376;
+		color:#ffe47c;
+		text-align:center;
+		padding:10px;
+		clear:both;
+	}
+	aside{
+		width:300px;
+		padding:20px;
+		margin:15px;
+		border:dotted 2px #aaa;
+		border-width:2px 1px;
+		float:right;
+	}
+	/*
+    the divs within the header and footer
+    will be fixed width centered,
+    also the nav
+    */
+	header>div, nav, footer>div{
+		width:850px;
+		margin-left:auto;
+		margin-right:auto;
+	}
+	/*
+    adjust the positioning of the logo image
+    */
+	header>div>img{
+		margin-top:10px;
+	}
+	nav{
+		background-image:url("../images/bg.gif");
+		height:30px;
+		border-bottom: solid 2px #AD6376;
+	}
+	main{
+		background-color:#ffe47c;
+		width:826px;
+		margin-left:auto;
+		margin-right:auto;
+		padding:10px;
+		border:solid 2px #ccc;
+		border-width:0px 2px;
+		color:#444;
+		min-height:200px;
+	}
+
+	/*
+    style an HTML list as a horizontal navigation
+    ---------------------------------------------------------
+    */
+	nav>ul{
+		float: left;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		font-size: 80%;
+		background: #fff url("../images/bg.gif") repeat-x bottom left;
+
+	}
+	nav>ul li {
+		float: left;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		border-right: 1px solid #ddd;
+		height:30px;
+	}
+	nav>ul a {
+		float: left;
+		padding: 6px 10px 6px 25px;
+		text-decoration: none;
+		color: #666;
+		background: url("../images/arrow_off.gif") no-repeat 5px;
+	}
+
+	nav>ul a:hover, nav>ul a.active {
+		color: #000;
+		background-color: #fff;
+	}
+	nav>ul a.active {
+		font-weight: bold;
+		background: url("../images/arrow_on.gif") no-repeat 5px;
+		background-color: #fff;
+	}
+	nav p{
+		float:right;
+		margin:0px;
+		padding:6px 30px;
+		color: #666;
+		font:italic 15px "arial";
+	}
+	/*
+    end of horizontal navigation styles
+    ---------------------------------------------------------
+    */
+
+}
+
+@media print {
+	body {
+		background: none;
+	}
+	h2, h3, h4, h5, h6{ page-break-after: avoid; }
+	section, article{ page-break-before: always; }
+	a:link, a:visited {
+		color: #309;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	a:link:after,
+	a:visited:after{
+		content: " (URL: " attr(href) ") ";
+		font-size: 90%;
+	}
+	header img{
+		display: none;
+	}
+	div:after{
+		content: url("../images/logo_print.png");
+	}
+	nav > ul{
+		display: none;
+	}
+	section{
+		float: left;
+	}
+	main > aside{
+		float: right;
+	}
+
+}

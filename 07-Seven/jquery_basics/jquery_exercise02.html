@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8" />
+	<link rel="stylesheet" type="text/css" href="http://bcitcomp.ca/comp1950/css/comp1.css" media="screen" />
+	<link href="css/style.css" rel="stylesheet" />
+	<!-- load the required jQuery library -->
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"> </script>
+	<!-- load your javascript -->	
+	<script src="js/script.js"></script>
+	</head>
+	<body>
+	<!-- run our own script that makes use of the jQuery library
+	<script>
+		$(document).ready( function () {
+			alert("Hello from javascript!")
+        });
+	</script> -->
+	<div id="maincont">
+
+		<h1>jQuery Exercise #2</h1>
+
+
+		<div class="contblock">
+			<p>A sample solution to exercise 2. The basic syntax for defining <a href="https://jquery.com/">jQuery</a> rules, selectors, and events are demonstrated here. Examine the source code of this page for details.</p>
+			<h2>Challenge A:</h2>
+			<p>Demonstrating basic jQuery <code>click</code> events using simple HTML selectors. A jQuery event will trigger an 'alert' if the user clicks on the sections below.</p>
+			<section>section #1. Click any section to trigger a javascript event!</section>
+			<section>section #2. Click any section to trigger a javascript event!</section>
+			<section>section #3. Click any section to trigger a javascript event!</section>
+
+			<h2>Challenge B:</h2>
+			<p>A jQuery event will trigger an 'alert' if the user clicks on the item with <code>id="my_unique_id"</code> below.</p>
+			<p>This is a paragraph is not <code>id="my_unique_id"</code></p>
+			<p id="my_unique_id">This is a paragraph with <code>id="my_unique_id"</code></p>
+			<p>This is a paragraph is not <code>id="my_unique_id"</code></p>
+
+			<h2>Challenge C:</h2>
+			<p>A jQuery event will trigger an 'alert' if the user mouseovers the item with <code>id="another_unique_id"</code> below.</p>
+			<p id="another_unique_id">This is a paragraph with <code>id="another_unique_id"</code></p>
+
+
+			<h2>Challenge D:</h2>
+			<p>A jQuery event will trigger an 'alert' and repost the X/Y position of the mouse if the user clicks on the item with <code>class="myclass"</code> below. Investigate the <a href="http://api.jquery.com/event.pageX/">event.pageX</a> and <a href="http://api.jquery.com/event.pageY/">event.pageY</a> to help with this.</p>
+
+			<aside class="myclass">
+				Click inside this aside to determine the current mouse position!
+			</aside>
+		</div>
+	</div>
+
+
+	</body>
+</html>
